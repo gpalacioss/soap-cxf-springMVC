@@ -1,0 +1,9 @@
+com/web/service/models/HelloWorld.class
+com/web/service/models/Persona.class
+com/web/service/component/WebServiceI.class
+com/web/service/config/CxfServletInitializer.class
+com/web/service/config/ClientConfiguration.class
+com/web/service/component/WebServiceImpl.class
+com/web/service/controllers/HelloWorldController.class
+com/web/service/config/ServiceConfiguration.class
+com/web/service/config/ApplicationConfig.class

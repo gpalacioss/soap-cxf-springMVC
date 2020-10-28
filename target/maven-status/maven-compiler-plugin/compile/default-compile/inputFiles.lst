@@ -1,0 +1,10 @@
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/component/WebServiceImpl.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/models/HelloWorld.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/config/ApplicationConfig.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/component/WebServiceI.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/config/ServiceConfiguration.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/config/CxfServletInitializer.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/models/Persona.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/config/SpringMvcDispatcherServletInitializer.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/controllers/HelloWorldController.java
+/home/guss/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/first-web-service-cxf/src/main/java/com/web/service/config/ClientConfiguration.java
